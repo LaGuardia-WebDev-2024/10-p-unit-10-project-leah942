@@ -1,11 +1,13 @@
 body {
-  background-color: black;
+/*   background-color: black; */
   text-align: center;
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed; 
   margin-top: 10%;
   font-family: Georgia, serif;
+  background-image: url("https://media.istockphoto.com/id/1432000638/video/space-nebula-looped-spin.jpg?s=640x640&k=20&c=G9T4YOYeeIo4SPa_mXGazpvCnWHL61XjeJdM_DD_qxs=");
+
 }
 
 html{
@@ -42,5 +44,9 @@ h2{
 }
 
 #end{
-  text-align: right;
+  text-align: right ;
 }
+
+
+
+  
