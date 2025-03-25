@@ -6,8 +6,7 @@ body {
   background-attachment: fixed; 
   margin-top: 10%;
   font-family: Georgia, serif;
-  background-image: url("https://media.istockphoto.com/id/1432000638/video/space-nebula-looped-spin.jpg?s=640x640&k=20&c=G9T4YOYeeIo4SPa_mXGazpvCnWHL61XjeJdM_DD_qxs=");
-
+  
 }
 
 html{
@@ -22,10 +21,10 @@ html{
 .container{
   display: flex;
   flex-wrap: wrap;
-  background-color: white;
+  background-color: rgb(244, 195, 232);
   justify-content: space-around;
   align-items: flex-start;
-  padding-bottom: 20px;
+  padding-bottom: 50px;
 }
 
 .pic{
@@ -36,7 +35,7 @@ html{
 }
 
 h2{
-  color: black;
+  color: rgb(229, 0, 170);
 }
 
 #start{
