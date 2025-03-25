@@ -1,3 +1,6 @@
+var galaxy = loadImage("https://media.istockphoto.com/id/1432000638/video/space-nebula-looped-spin.jpg?s=640x640&k=20&c=G9T4YOYeeIo4SPa_mXGazpvCnWHL61XjeJdM_DD_qxs=")
+
+
 setup = function() {
     size(400, 600); 
     background(245, 230, 179);
@@ -40,6 +43,10 @@ setup = function() {
     }
     
     
+   
 };
 
-
+ draw = function(){
+    image(galaxy, 200, 200, 100,100)
+    }
+    
